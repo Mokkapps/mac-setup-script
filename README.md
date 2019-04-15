@@ -5,12 +5,3 @@ My personal installation script for a new computer.
 Note, this sets up an extremely opinionated and highly personalized installation, with my preferences and dotfiles. Please adjust as needed!
 
 Forked from [nnja/new-computer](https://github.com/nnja/new-computer)
-
-## Install from script:
-
-Open the terminal, then:
-
-```sh
-bash -c "`curl -L https://git.io/new-computer`"
-```
-
