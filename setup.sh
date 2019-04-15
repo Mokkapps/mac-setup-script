@@ -176,14 +176,17 @@ brew install zsh # zshell
 ### Dev Editors 
 brew cask install visual-studio-code
 brew cask install webstorm
+brew cask install jetbrains-toolbox
 
 ### Writing
 
 ### Conferences, Blogging, Screencasts
 
 ### Productivity
+brew cask install firefox
 brew cask install google-chrome
 brew cask install timing  # time and project tracker
+brew install tree
 
 ### Keyboard & Mouse
 
@@ -195,7 +198,6 @@ brew cask install spotify
 
 ### Other tools
 brew cask install enpass
-brew cask install ccleaner
 
 ### Run Brew Cleanup
 brew cleanup
